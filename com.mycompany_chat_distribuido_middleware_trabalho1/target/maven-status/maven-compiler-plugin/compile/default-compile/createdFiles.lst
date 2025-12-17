@@ -1,0 +1,10 @@
+middleware\server$1.class
+middleware\SocketServerDesktopThread.class
+middleware\run.class
+middleware\MessageReaderServerThread.class
+middleware\server$3.class
+middleware\SocketServerThread.class
+middleware\PublicidadeMulticastServer.class
+middleware\server.class
+middleware\MessageReaderDesktopServerThread.class
+middleware\server$2.class
